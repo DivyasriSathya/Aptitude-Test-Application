@@ -1,0 +1,10 @@
+Which of the following is a valid variable name in Python?,_variable,2variable,variable-name,variable name,b. _variable
+"What does the following code print? `print(""Hello"" + ""World"")`",HelloWorld,Hello World,Hello+World,Error,HelloWorld
+Which data structure uses LIFO (Last In First Out)?,Stack,Queue,Linked List,Tree,Stack
+What is the time complexity of binary search?,O(log n),O(n),O(n^2),O(1),O(log n)
+Which keyword is used to create a function in JavaScript?, function,def,func,method,function
+In HTML which tag is used to create a hyperlink?,`<a>`,`<link>`,`<href>`,`<hyperlink>`,`<a>`
+Which of the following is not a relational database?,MongoDB,MySQL,PostgreSQL,Oracle,MongoDB
+What does CSS stand for?,Cascading Style Sheets,Computer Style Sheets,Creative Style Sheets,Colorful Style Sheets,Cascading Style Sheets
+Which of the following is used to define a block of code in Python?,Indentation,Curly braces,Square brackets,Parentheses,Indentation
+Which method is used to remove the last element from an array in JavaScript?,pop(),push(),shift(),unshift(),pop()

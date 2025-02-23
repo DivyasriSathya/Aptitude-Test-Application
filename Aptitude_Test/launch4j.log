@@ -1,0 +1,77 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\palla\OneDrive\Desktop\APTITUDE TEST FINAL\Output.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\palla\OneDrive\Desktop\APTITUDE TEST FINAL\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.000.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\nodejs\;C:\Users\palla\AppData\Local\Microsoft\WindowsApps;C:\Users\palla\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\palla\AppData\Roaming\npm;C:\Program Files\Java\jdk-22\bin;;C:\Program Files\Java\jdk-22\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\nodejs\;C:\Users\palla\AppData\Local\Microsoft\WindowsApps;C:\Users\palla\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\palla\AppData\Roaming\npm;C:\Program Files\Java\jdk-22\bin;;C:\Program Files\Java\jdk-22\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\java8path\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Users\palla\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\palla\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\palla\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-22\bin\javac.exe (OK)
+Version string: 1.022.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	-jar "C:\Users\palla\OneDrive\Desktop\APTITUDE TEST FINAL\Output.exe"
+Args length:	69/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Administrator\Desktop\aptitudefinal\finaloutput.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Administrator\Desktop\aptitudefinal\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.000.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-22
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\Java\jdk-22\bin;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Users\Administrator\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Python\Python311\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;D:\javajdk\New folder\IntelliJ IDEA Community Edition 2023.3.2\bin;;C:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Administrator\AppData\Roaming\npm;C:\Program Files\MongoDB\Server\7.0\bin;C:\Program Files\Java\jdk-22;;C:\Program Files\Java\jdk-22\bin
+JRE paths:	C:\Program Files\Java\jdk-22;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\Java\jdk-22\bin;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Users\Administrator\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Python\Python311\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;D:\javajdk\New folder\IntelliJ IDEA Community Edition 2023.3.2\bin;;C:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Administrator\AppData\Roaming\npm;C:\Program Files\MongoDB\Server\7.0\bin;C:\Program Files\Java\jdk-22;;C:\Program Files\Java\jdk-22\bin
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-22\bin\javac.exe (OK)
+Version string: 1.022.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Administrator\Desktop\aptitudefinal\finaloutput.exe"
+Args length:	67/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\Administrator\Desktop\aptitudefinal\FinalOutput.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Administrator\Desktop\aptitudefinal\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.000.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-22
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\Java\jdk-22\bin;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Users\Administrator\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Python\Python311\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;D:\javajdk\New folder\IntelliJ IDEA Community Edition 2023.3.2\bin;;C:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Administrator\AppData\Roaming\npm;C:\Program Files\MongoDB\Server\7.0\bin;C:\Program Files\Java\jdk-22;;C:\Program Files\Java\jdk-22\bin
+JRE paths:	C:\Program Files\Java\jdk-22;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\PuTTY\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Program Files\Java\jdk-22\bin;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\bin;C:\Users\Administrator\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Python\Python311\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;D:\javajdk\New folder\IntelliJ IDEA Community Edition 2023.3.2\bin;;C:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Administrator\AppData\Roaming\npm;C:\Program Files\MongoDB\Server\7.0\bin;C:\Program Files\Java\jdk-22;;C:\Program Files\Java\jdk-22\bin
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-22\bin\javac.exe (OK)
+Version string: 1.022.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Administrator\Desktop\aptitudefinal\FinalOutput.exe"
+Args length:	67/32768 chars
+Exit code:	0
